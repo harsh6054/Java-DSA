@@ -21,3 +21,36 @@ This repository contains **Java programs and Data Structures & Algorithms (DSA) 
 
 ---
 
+---
+
+## 🧠 Topics Covered
+
+### ✅ Core Java
+
+* Variables & Data Types
+* Operators
+* Control Statements
+* Loops
+* Methods & Recursion
+* Arrays & Strings
+* Object-Oriented Programming (OOP)
+
+### ✅ Data Structures
+
+* Arrays
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Hashing
+
+### ✅ Algorithms
+
+* Searching Algorithms
+* Sorting Algorithms
+* Recursion & Backtracking
+* Greedy Algorithms
+* Dynamic Programming
+
+---
